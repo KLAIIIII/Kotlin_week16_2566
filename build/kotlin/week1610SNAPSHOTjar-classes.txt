@@ -1,0 +1,1 @@
+D:\Wilaiwan\Kotlin_Work\week16\build\classes\kotlin\main\Employee.class;D:\Wilaiwan\Kotlin_Work\week16\build\classes\kotlin\main\MainKt.class;D:\Wilaiwan\Kotlin_Work\week16\build\classes\kotlin\main\Person.class
